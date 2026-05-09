@@ -1,0 +1,11 @@
+API KEY
+AIzaSyCtumfvFq8f2O3HoTG0uRXpRzucvHCoxN4
+
+Name
+Gemini Agent Key
+
+Project Name
+projects/1019858149892
+
+Project Number
+1019858149892
