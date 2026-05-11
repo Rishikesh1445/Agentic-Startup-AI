@@ -10,11 +10,14 @@ typing-extensions
 
 chromadb
 sentence-transformers
+torchvision
 tavily-python
 
 langsmith
 
 rich
 ipython
+
+streamlit
 
 tiktoken
