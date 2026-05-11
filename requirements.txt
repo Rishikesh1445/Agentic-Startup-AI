@@ -10,6 +10,7 @@ typing-extensions
 
 chromadb
 sentence-transformers
+tavily-python
 
 langsmith
 

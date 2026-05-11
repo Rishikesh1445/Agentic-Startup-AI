@@ -29,6 +29,12 @@ def critic_agent(state: StartupState):
     Proposal:
     {state['ceo_output']}
 
+    Previous Score:
+    {state['score']}
+
+    Previous Feedback:
+    {state['critic_feedback']}
+
     Give:
     1. major failure or critical issues like for example:
     Main Problem 1:
